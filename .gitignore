@@ -1,0 +1,7 @@
+# OS-specific
+.DS_Store
+# Vagrant stuff
+.vagrant/
+boxes/*
+tmp
+chef/cookbooks
