@@ -3,7 +3,6 @@
 
 # Required plugins:
 # vagrant-vbguest - Automatically installs the host's VirtualBox Guest Additions on the guest system
-# vagrant-librarian-chef - Let's us automatically run chef when we fire up our machine
 # vagrant-omnibus https://github.com/chef/vagrant-omnibus
 # vagrant-hostmanager
 
