@@ -8,6 +8,8 @@ Prerequisites
 
 Only one actually: `librarian-chef`. If you don't have it, just run `gem install librarian-chef` and you are good to go
 
+> **Note:** I'm assuming you already have Vagrant installed!
+
 Usage
 ------------
 
